@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="211ee2a9-9978-46e9-9eea-1db83337c913" name="Default Changelist" comment="" />
+    <list default="true" id="211ee2a9-9978-46e9-9eea-1db83337c913" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/SortTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Tdr3HLupj3R2wIBDqDL075YKRN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -33,6 +43,19 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.SortTest">
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Sorting" />
+      <module name="my_example_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my_example_project" />
       <extension name="coverage">
@@ -44,22 +67,6 @@
       <option name="PACKAGE_NAME" value="com.example" />
       <option name="MAIN_CLASS_NAME" value="com.example.SortTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortTest.TestingInNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my_example_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.SortTest" />
-      <option name="METHOD_NAME" value="TestingInNull" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,10 +122,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SortTest" />
+        <item itemvalue="Application.Sorting" />
         <item itemvalue="JUnit.SortTest.TestingInTime" />
         <item itemvalue="JUnit.SortTest.Well" />
         <item itemvalue="JUnit.SortTest.TestingInSort" />
-        <item itemvalue="JUnit.SortTest.TestingInNull" />
       </list>
     </recent_temporary>
   </component>
@@ -134,5 +141,18 @@
       <updated>1573800612905</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
